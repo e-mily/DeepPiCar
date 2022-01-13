@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training data</folder>
+	<filename>IMG_20210415_124515.jpg</filename>
+	<path>D:\Document\UTB notes\Cipta 2021\training data\IMG_20210415_124515.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2736</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Diversion on Left 800m Ahead</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1400</xmin>
+			<ymin>854</ymin>
+			<xmax>1754</xmax>
+			<ymax>1256</ymax>
+		</bndbox>
+	</object>
+</annotation>
