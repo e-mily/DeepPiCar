@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training data</folder>
+	<filename>IMG_20210415_125413.jpg</filename>
+	<path>D:\Document\UTB notes\Cipta 2021\training data\IMG_20210415_125413.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2736</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fasten Seat Belt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1950</xmin>
+			<ymin>1376</ymin>
+			<xmax>2062</xmax>
+			<ymax>1536</ymax>
+		</bndbox>
+	</object>
+</annotation>

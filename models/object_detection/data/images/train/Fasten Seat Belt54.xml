@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6</folder>
+	<filename>IMG_20210415_130735.jpg</filename>
+	<path>D:/Document/UTB notes/Semester 8/FYP/Dataset/Training Data/6/IMG_20210415_130735.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2736</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fasten seatbelt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2130</xmin>
+			<ymin>1244</ymin>
+			<xmax>2198</xmax>
+			<ymax>1360</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>16</folder>
+	<filename>IMG_20220110_083040.jpg</filename>
+	<path>D:/Document/UTB notes/Semester 8/FYP/Dataset/Training Data/16/IMG_20220110_083040.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2736</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>height limit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1210</xmin>
+			<ymin>1116</ymin>
+			<xmax>1394</xmax>
+			<ymax>1312</ymax>
+		</bndbox>
+	</object>
+</annotation>
