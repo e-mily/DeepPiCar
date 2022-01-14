@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>IMG_20210415_130001_2.jpg</filename>
+	<path>D:/Document/UTB notes/Semester 8/FYP/Dataset/Training Data/2/IMG_20210415_130001_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2736</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>traffic signals ahead</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1262</xmin>
+			<ymin>948</ymin>
+			<xmax>1426</xmax>
+			<ymax>1088</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>training data</folder>
+	<filename>IMG_20210415_124508_1.jpg</filename>
+	<path>D:\Document\UTB notes\Cipta 2021\training data\IMG_20210415_124508_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2736</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Beware</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1406</xmin>
+			<ymin>1288</ymin>
+			<xmax>1586</xmax>
+			<ymax>1396</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>U Turn Ahead</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2086</xmin>
+			<ymin>1340</ymin>
+			<xmax>2202</xmax>
+			<ymax>1432</ymax>
+		</bndbox>
+	</object>
+</annotation>
