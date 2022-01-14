@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training data</folder>
+	<filename>IMG_20210415_125518.jpg</filename>
+	<path>D:\Document\UTB notes\Cipta 2021\training data\IMG_20210415_125518.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2736</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Merging Traffic from the left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1922</xmin>
+			<ymin>1260</ymin>
+			<xmax>2002</xmax>
+			<ymax>1344</ymax>
+		</bndbox>
+	</object>
+</annotation>
