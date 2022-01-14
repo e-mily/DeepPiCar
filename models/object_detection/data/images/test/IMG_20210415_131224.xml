@@ -1,0 +1,50 @@
+<annotation>
+	<folder>test_images</folder>
+	<filename>IMG_20210415_131224.jpg</filename>
+	<path>D:/Document/dataset/test_images/IMG_20210415_131224.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2736</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>beware</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>774</xmin>
+			<ymin>1212</ymin>
+			<xmax>1398</xmax>
+			<ymax>1500</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no overtaking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2030</xmin>
+			<ymin>1416</ymin>
+			<xmax>2146</xmax>
+			<ymax>1528</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>narrow bridge</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2034</xmin>
+			<ymin>1528</ymin>
+			<xmax>2166</xmax>
+			<ymax>1640</ymax>
+		</bndbox>
+	</object>
+</annotation>
