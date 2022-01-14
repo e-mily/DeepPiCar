@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training data</folder>
+	<filename>IMG_20210415_115104.jpg</filename>
+	<path>D:\Document\UTB notes\Cipta 2021\training data\IMG_20210415_115104.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3648</width>
+		<height>2736</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1093</xmin>
+			<ymin>1349</ymin>
+			<xmax>1252</xmax>
+			<ymax>1497</ymax>
+		</bndbox>
+	</object>
+</annotation>

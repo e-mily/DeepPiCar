@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Training Data</folder>
+	<filename>IMG_20210415_115102.jpg</filename>
+	<path>D:/Document/UTB notes/Semester 8/FYP/Dataset/Training Data/IMG_20210415_115102.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3648</width>
+		<height>2736</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>843</xmin>
+			<ymin>1209</ymin>
+			<xmax>990</xmax>
+			<ymax>1350</ymax>
+		</bndbox>
+	</object>
+</annotation>
